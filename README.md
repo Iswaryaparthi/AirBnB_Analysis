@@ -1,4 +1,3 @@
-# CapstoneProject4
 # AirBnB Analysis
 
 ## Introduction:
