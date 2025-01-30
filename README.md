@@ -56,7 +56,7 @@ Explore visualizations created from this dataset using tools like Power BI and S
 
 ## Credits
 
-The dataset was collected and made available in MongoDB Atlas as sample_airbnb. Thank you  Guvi team for this project.
+The dataset was collected and made available in MongoDB Atlas as sample_airbnb.
 
 ### Thank you All!
 
